@@ -1,5 +1,1 @@
-# ptilochronology
-# ptilochronology
-# ptilochronology
-# ptilochronology
-# ptilochronology
+This is data and code assaociated with The manuscript "Feather growth rate increases with latitude in four species of widespread resident Neotropical birds". All code and data created by Ryan Terrill unless otherwise noted. 
